@@ -1,2 +1,0 @@
-# REST_NODE
-RESTAPI
